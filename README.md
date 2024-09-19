@@ -9,3 +9,8 @@ Its really similar to NetCode, Photon and FishNet,
 there is a full documentation for the Mirror Multiplayer Library
 
 This is a older version of mirror because the newer ones are not too similar to NetCode etc.
+
+if your project got errors when you exported the package,
+go to package manager and add this thing with the add with name option.
+
+com.unity.nuget.newtonsoft-json
